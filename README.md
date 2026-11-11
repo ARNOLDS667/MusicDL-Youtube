@@ -1,8 +1,6 @@
 # 🎵 MusicDL
 
-Télécharge de la musique depuis **YouTube** et **YouTube Music** en **MP3, M4A ou FLAC**, avec tout ce qu'il faut pour une bibliothèque propre : pochette, artiste, album, année, **genre**, **numéro de piste** et **paroles**. Inspiré de [spotDL](https://github.com/spotDL/spotify-downloader).
-
-Application avec YouTube Music intégré, ou ligne de commande.
+Télécharge l'application en cliquant ici 👉  [dernière release](https://github.com/ARNOLDS667/MusicDL-Youtube/releases), puis selectionne MusicDl-Setup-...exe
 
 ## ✨ Fonctionnalités
 
