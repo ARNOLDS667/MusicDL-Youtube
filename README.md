@@ -1,5 +1,6 @@
 # 🎵 Darkyout
 
+Télécharge l'application en cliquant ici 👉  [dernière release](https://github.com/ARNOLDS667/MusicDL-Youtube/releases), puis selectionne MusicDl-Setup-...exe
 > Anciennement **MusicDL**. Même moteur, nouvelle interface sombre avec **lecteur intégré** et prise en charge de **SoundCloud**.
 
 Télécharge de la musique depuis **YouTube**, **YouTube Music**, **SoundCloud** et **Spotify** (playlists, métadonnées) en **MP3, M4A ou FLAC**, avec tout ce qu'il faut pour une bibliothèque propre : pochette, artiste, album, année, **genre**, **numéro de piste** et **paroles**. 
